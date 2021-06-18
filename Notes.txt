@@ -1,0 +1,11 @@
+Git:	used by developers to keep track of changes(commits) in the projects.
+
+commands:
+	status:	to check the status of the git repository.
+	add : to add files to the git repository.
+	git commit -m "created filename"
+	log :shows all the changes .
+steps:
+	firstly add files to the repository.
+
+	
